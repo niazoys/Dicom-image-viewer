@@ -1,7 +1,8 @@
-# Dicom-image-viewer
+# Description 
+A python GUI program to view dicom images.Brightness and contrast of the images can be adjusted. It also has different viewing method to choose from. 
+
+# How to run
 - Run the run.gui.py file with the following command: python run_gui.py -f *Dicom image fileName*
-- Brightness and Contrast can be adjusted.
-- Different Viewing method
 - Run displayThumbnil.py for displaying thumbnil for all the dicom images in a directory. Command: python displayThumbnil.py -d *directoy*
  
  # Dependencies
